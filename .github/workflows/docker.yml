@@ -1,3 +1,5 @@
+# this will build project und push updated docker image to registry
+
 name: Maven Build + Docker build und DockerHub push
 
 on:
